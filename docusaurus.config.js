@@ -9,7 +9,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico", // @Todo yapp 파비콘 으로 교체 해야함
+  favicon: "img/favicon.png", // @Todo yapp 파비콘 으로 교체 해야함
   organizationName: "YAPP admin", // @Note organization 이름
   projectName: "web-docs", // @Note 레포 이름
 
@@ -52,7 +52,7 @@ const config = {
         },
         items: [
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/YAPP-admin/web-docs",
             label: "GitHub",
             position: "right",
           },
